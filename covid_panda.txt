@@ -1,0 +1,7 @@
+1) -y 0.1 e -t 0.1 ; 79 patterns
+2) -y 1 e -t 1 ; 23 patterns
+3) -k 2 -y .1 e -t .1 ; 2 patterns
+4) -k 3 -y .1 e -t .1 ; 3 patterns
+5) -k 4 -y .1 e -t .1 ; 4 patterns
+6) -k 5 -y .1 e -t .1 ; 5 patterns
+7) -k 6 -y .1 e -t .1 ; 6 patterns
